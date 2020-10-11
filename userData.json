@@ -1,0 +1,139 @@
+{
+    "users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com",
+        "projects": [
+          {
+            "projectId": 1,
+            "title": "Practice Project",
+            "description": "This is a simple test project. It will be simple and sweet. Just for the testing",
+            "complete": false
+          },
+          {
+            "projectId": 2,
+            "title": "Secondary Project",
+            "description": "Project to see how americans feel about one another. 200 questions dividing into sections of 25 questions randomly generated from the list",
+            "complete": false
+          },
+          {
+            "projectId": 3,
+            "title": "Final Project",
+            "description": "Last project home stretch",
+            "complete": false
+          }
+        ]
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com",
+        "projects": [
+          {
+            "projectId": 4,
+            "title": "Practice Project",
+            "description": "This is a simple test project. It will be simple and sweet. Just for the testing",
+            "complete": false
+          },
+          {
+            "projectId": 5,
+            "title": "Secondary Project",
+            "description": "Project to see how americans feel about one another. 200 questions dividing into sections of 25 questions randomly generated from the list",
+            "complete": false
+          },
+          {
+            "projectId": 6,
+            "title": "Final Project",
+            "description": "Last project home stretch",
+            "complete": false
+          }
+        ]
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com",
+        "projects": [
+          {
+            "projectId": 7,
+            "title": "Practice Project",
+            "description": "This is a simple test project. It will be simple and sweet. Just for the testing",
+            "complete": false
+          },
+          {
+            "projectId": 82,
+            "title": "Secondary Project",
+            "description": "Project to see how americans feel about one another. 200 questions dividing into sections of 25 questions randomly generated from the list",
+            "complete": false
+          },
+          {
+            "projectId": 9,
+            "title": "Final Project",
+            "description": "Last project home stretch",
+            "complete": false
+          }
+        ]
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com",
+        "projects": [
+          {
+            "projectId": 10,
+            "title": "Practice Project",
+            "description": "This is a simple test project. It will be simple and sweet. Just for the testing",
+            "complete": false
+          },
+          {
+            "projectId": 11,
+            "title": "Secondary Project",
+            "description": "Project to see how americans feel about one another. 200 questions dividing into sections of 25 questions randomly generated from the list",
+            "complete": false
+          },
+          {
+            "projectId": 12,
+            "title": "Final Project",
+            "description": "Last project home stretch",
+            "complete": false
+          }
+        ]
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com",
+        "projects": [
+          {
+            "projectId": 13,
+            "title": "Practice Project",
+            "description": "This is a simple test project. It will be simple and sweet. Just for the testing",
+            "complete": false
+          },
+          {
+            "projectId": 14,
+            "title": "Secondary Project",
+            "description": "Project to see how americans feel about one another. 200 questions dividing into sections of 25 questions randomly generated from the list",
+            "complete": false
+          },
+          {
+            "projectId": 15,
+            "title": "Final Project",
+            "description": "Last project home stretch",
+            "complete": false
+          }
+        ]
+      }
+    ]
+  }

@@ -1,12 +1,16 @@
 import React from 'react'
 import '../css/profile.css'
 
-function Profile () {
+
+function Profile (props) {
+
+  console.log(props)
+
   return (
     <div className='profile-container'>
-      <h1>This is the a form page</h1>
       <div className='stat-column'>
         <ul className='left-bar'>
+          <h1>{props.user}</h1>
           <li id='pic' />
           <li id='stat'>Stat</li>
           <li id='stat'>Stat</li>

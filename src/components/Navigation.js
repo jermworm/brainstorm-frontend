@@ -1,7 +1,8 @@
 import React from 'react'
 import '../css/nav.css'
 
-function Navigation () {
+function Navigation (props) {
+
   return (
     <div className='header'>
       <h1>Brainstorm</h1>
@@ -10,7 +11,7 @@ function Navigation () {
           <li>Dashboard</li>
           <li>Projects</li>
           <li>Notifactions</li>
-          <li>UserProfile</li>
+          <li>{props.loggedIn ? props.user : `Username`}</li>
         </ul>
       </nav>
     </div>
