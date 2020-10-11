@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    padding: 10px;
+    margin: auto;
+}
+
+.container div{
+    border: solid 1px;
+    padding: 50px 50px 100px;
+}
+

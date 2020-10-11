@@ -1,0 +1,28 @@
+.profile-container {
+    margin: auto;
+    padding: 50px 50px;
+}
+
+.stat-column {
+    float: left;
+    padding-top: 50px;
+}
+
+.left-bar {
+    list-style: none;;
+}
+
+ .left-bar #pic {
+    height: 200px;
+    width: 200px;
+    border: solid;
+    background-color: gray;
+}
+
+.left-bar button{
+    margin-top: 20px;
+}
+
+.left-bar li {
+    padding: 10px;
+}
